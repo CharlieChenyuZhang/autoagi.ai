@@ -72,6 +72,10 @@ export default function Home() {
           </p>
         </a>
       </div>
+
+      <div className="mb-32 text-center lg:mb-0 lg:grid-cols-1 lg:text-left">
+        contact us at <a href="mailto:charlie@autoagi.ai">charlie@autoagi.ai</a>
+      </div>
     </main>
   );
 }
